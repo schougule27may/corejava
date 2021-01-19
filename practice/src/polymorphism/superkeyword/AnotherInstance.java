@@ -18,7 +18,6 @@ class B extends A{
     }
     {
         System.out.println("Instance initilizer block is invoked");
-
     }
 }
 
