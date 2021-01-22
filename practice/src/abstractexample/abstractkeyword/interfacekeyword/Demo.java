@@ -12,7 +12,10 @@ public class Demo implements Test, Test2 {
 
     @Override
     public void add() {
-        System.out.println("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
+        System.out.print("Hello");
     }
 
     public static void main(String[] args) {
