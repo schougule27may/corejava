@@ -3,11 +3,11 @@ package Arrays;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-
+/** This class is a user-defined class that contains one methods cube.*/
 //DOB == > Days
 //Current date = DOB
 public class DaysAlive {
-
+    /** The cube method prints cube of the given number */
     public static void main(String[] args) {
 
         try {
