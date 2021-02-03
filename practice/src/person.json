@@ -1,0 +1,10 @@
+{
+  "name" : "sandeep",
+  "address" : {
+    "street" : "aaaa",
+    "zip" : 111,
+    "country" : {
+      "name" : "USA"
+    }
+  }
+}
