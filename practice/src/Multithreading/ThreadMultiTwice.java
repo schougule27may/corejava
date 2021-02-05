@@ -11,4 +11,5 @@ public class ThreadMultiTwice extends Thread {
         ThreadMultiTwice thread = new ThreadMultiTwice();
         thread.start();
     }
+
 }
