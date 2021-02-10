@@ -14,6 +14,7 @@ class Table1{
                  }catch (Exception e) {
                      System.out.println(e);
                  }
+                 j=2;
              }
              System.out.println("Completed printTable");
          }
